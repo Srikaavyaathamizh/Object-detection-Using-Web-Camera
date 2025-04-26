@@ -3,7 +3,7 @@
 <br>
 To write a Python code to Object Detection Using Webcam</br>
 
-## Precedure:
+# Precedure:
 <br>
 STEP-1 Load the pre-trained YOLOv4 network (.weights and .cfg) using cv2.dnn.readNet().
 
@@ -25,9 +25,9 @@ STEP-9 Exit the loop if the 'q' key is pressed.
 
 STEP-10 Release the video capture and close any OpenCV windows (cap.release() and cv2.destroyAllWindows()).
 </br>
-## Program:
-# Name: Srikaavyaa T
-# Regno:212223230214
+# Program:
+## Name: Srikaavyaa T
+## Regno:212223230214
 
 ```
 import cv2
@@ -110,6 +110,6 @@ cv2.destroyAllWindows()
 # Output:
 ![WhatsApp Image 2025-04-26 at 20 58 01_01dc7b0c](https://github.com/user-attachments/assets/cda2c432-8e36-4e86-8b4a-b1e49c4257f0)
 
-## Result:
+# Result:
 Thus, the Python Program to detect object using web camera as been successfully executed.
 
